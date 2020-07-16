@@ -29,7 +29,7 @@ module.exports = {
         name: `Cara - @lekoarts/gatsby-theme-cara`,
         short_name: `Cara Portfolio`,
         description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
-        start_url: `/Static-Website-Gatsby-Portfolio-Cara`,
+        start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
         display: `standalone`,
